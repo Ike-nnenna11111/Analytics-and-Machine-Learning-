@@ -1,1 +1,1 @@
-# Analytics-and-Machine-Learning-
+# Machine learning classification to predict average customer spend 

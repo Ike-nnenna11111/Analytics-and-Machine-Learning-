@@ -1,1 +1,1 @@
-# Machine learning classification to predict average customer spend 
+# Machine learning classification model  to predict average customer spend 
